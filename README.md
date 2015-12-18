@@ -10,3 +10,5 @@ Here's my Dock where I put these apps for quick access:
 
 ![alt Dock screenshot](screenshots/dock_screenshot.png "Apps in my Dock")
 
+There is much smarter and sophisticated software for bulk renaming, but I don't care :-)
+
