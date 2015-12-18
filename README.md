@@ -1,4 +1,4 @@
-Rename Photoshop Assets
+Rename Assets
 =======================
 
 Description
